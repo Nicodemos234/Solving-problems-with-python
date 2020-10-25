@@ -1,5 +1,3 @@
-
-
 val1 = float(input("insira o primeiro: "))
 val2 = float(input("insira o segundo: "))
 val3 = float(input("insira o terceiro: "))
